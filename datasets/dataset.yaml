@@ -1,0 +1,6 @@
+train: /content/BCCD_Dataset/train/images
+val: /content/BCCD_Dataset/valid/images
+
+nc: 3  # Number of classes
+
+names: ['RBC', 'WBC', 'Platelets']  # Class names
